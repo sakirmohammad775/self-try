@@ -1,0 +1,114 @@
+/*header related style*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(banner3.png);
+    padding-right: 250px;
+    text-align: right;
+    width: 1400px;
+    height: 808px;
+    
+
+}
+.header-title{
+    padding: 100px 50px 0px 300px;
+    color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-weight: 700;
+
+}
+.header-description{
+    color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+padding: 10px 50px 10px 30px;
+}
+.btn-primary{
+color: #005FAC;
+text-align: right;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+padding: 20px;
+border-radius: 5px;
+background: #FFF;
+border-color: #FFF;
+margin-right: 60px;
+margin-top: 60px;
+}
+
+/*main branch start*/
+
+.section-item{
+    color: rgb(19, 20, 20);
+    display: flex;
+}
+.person{
+    width: 600px;
+    height: 898px;
+    background-image: url(person.png);
+    background-repeat: no-repeat;
+    margin: 100px 112px 0px 150px;
+    
+}
+.item{
+    margin: 300px 20px 50px 42px;
+}
+
+.failures{
+    color: #151414;
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 20px;
+}
+.black{
+    color: #444343;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+
+}
+
+.plans{
+    color: var(--dark-01, #151414);
+text-align: center;
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    padding-top:50px ;
+    padding-left: 100px;
+    padding-right:150px ;
+}
+
+.watch{
+    
+    background-image: url(watch.png);
+    width: 1080px;
+    height: 300px;
+    margin: 130px 230px 20px 190px;
+    background-repeat: no-repeat;
+    display: flex;
+    padding-left: 150px;
+
+    
+
+}
+
